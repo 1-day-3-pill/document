@@ -9,4 +9,5 @@
 |Proposal|기획서|
 |Design|디자인|
 |Project Schedule|프로젝트 일정|
+|Project Plan|프로젝트 계획|
 |Minutes|회의록|
