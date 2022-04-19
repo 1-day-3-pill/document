@@ -4,7 +4,9 @@
 
 ## 용어
 
-Proposal - 기획서
-Design - 디자인
-Project Schedule - 프로젝트 일정
-Minutes - 회의록
+|Word|Description|
+|:---|---|
+|Proposal|기획서|
+|Design|디자인|
+|Project Schedule|프로젝트 일정|
+|Minutes|회의록|
