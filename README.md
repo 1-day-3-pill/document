@@ -8,6 +8,7 @@
 |:---|---|
 |Proposal|기획서|
 |Design|디자인|
-|Project Schedule|프로젝트 일정|
 |Project Plan|프로젝트 계획|
+|Project Schedule|프로젝트 일정|
+|Project Gantt chart|프로젝트 간트차트|
 |Minutes|회의록|
